@@ -1,2 +1,2 @@
 # Cpp_repo
-C++ Beadandók
+ELTE IK, Programtervező Informatikus, Programozási Nyelvek (C++), Beadandó
